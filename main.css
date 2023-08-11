@@ -1,37 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Imbue:wght@100&family=Maven+Pro&family=Playfair+Display&family=Source+Code+Pro:wght@200&display=swap");
+
+html {
+  font-family: "Playfair Display", serif;
+  margin: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+h2 + p {
+  font-size: 1em;
+}
+
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+  font-size: 4em;
+  padding: ;
+  margin: ;
+  font-weight: ;
+  text-decoration: ;
+  color: ;
+  background-color: ;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+  font-size: 2.5em;
+  padding: ;
+  margin: ;
+  font-weight: ;
+  color: ;
+  background-color: ;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+  font-size: 0.8em;
+  line-height: 2em;
+  padding: ;
+  margin: ;
+  color: ;
+  background-color: ;
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+  background-size: cover;
+  background-image: url(https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png);
+  background-color: white;
+  margin: auto;
+  height: 100px;
+  width: 100px;
+}
+.content {
+  padding-bottom: 15px;
 }
